@@ -1,5 +1,9 @@
 # EyeSeeYou
 
+# Devpost
+
+https://devpost.com/software/vessel-segmenter
+
 ## Inspiration
 In recent years, making machine learning models that can diagnose diseases has become much easier, and experienced programmers can make convolutional neural networks with decent accuracy within an hour. Because of this, any dataset you can find online has already had several machine-learning models created for it. The most difficult part of making the models nowadays is generating the data needed to make the models, which is a very time-consuming process. A more efficient process to generate data needed to be made, resulting in the vessel segmenter!
 
